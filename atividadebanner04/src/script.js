@@ -1,0 +1,1 @@
+console.log("Banner carregado com sucesso!");
